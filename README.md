@@ -1,4 +1,4 @@
-# next-after-ngram
+# next-after-n
 
 count what follows each n-gram in some list `corpus`
 with vanilla JS objects
@@ -10,7 +10,7 @@ with vanilla JS objects
 ## example
 
 ```javascript
-var nextafter = require('next-after-ngram')
+var nextafter = require('next-after-n')
 
 var noises = [
    'beep'
@@ -35,7 +35,7 @@ console.log(nexts)
 ## install
 
 ```
-npm i next-after-ngram
+npm i next-after-n
 ```
 
 ## license
